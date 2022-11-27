@@ -24,7 +24,7 @@ import emailjs from 'emailjs-com';
 
 const Contact = () => {
 
-    init("user_3UsV0FkUYT9Cq62he");
+    init("3UsV0FkUYT9Cq62he");
 
     const toast = useToast();
 
