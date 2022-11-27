@@ -18,8 +18,8 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>Arup Mandal</title>
-        <meta property="og:title" content="Teo | Mobile Application Developer"></meta>
-        <meta name="description" content="Teo | Mobile Application Developer" />
+        <meta property="og:title" content="Arup Mandal | Creator | Learner| Developer"></meta>
+        <meta name="description" content="Arup Mandal | Creator | Learner| Developer " />
         <link rel="icon" href="/Arup.png" />
       </Head>
 
