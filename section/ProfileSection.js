@@ -30,7 +30,7 @@ const ProfileSection = ({song}) => {
                     </Flex>
                 </Flex>
                 <Paragraph fontSize="2xl" lineHeight={1.6}>
-                    B-Tech 2nd Year IT Student .
+                    Part Time Developer, Full Time Learner.
                 </Paragraph>
                 <Paragraph fontSize="2xl" lineHeight={1.6}>
                     Focused on {" "}
