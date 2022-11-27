@@ -11,10 +11,10 @@
 - [React Icons](https://react-icons.github.io/react-icons/)
 
 ## Screens
-![screen1](/screenshot/screen1.png)
-![screen2](/screenshot/screen2.png)
-![screen3](/screenshot/screen3.png)
-![screen4](/screenshot/screen4.png)
+![screen1](/screenshot/screven1.png)
+![screen2]
+![screen3]
+![screen4]
 
 ## Setup ENV
 - Create `.env` file at the root of project
