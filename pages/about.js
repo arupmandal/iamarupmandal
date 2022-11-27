@@ -48,7 +48,7 @@ function About() {
                             </UnderlinedText>
 
                             <Paragraph fontSize="lg" lineHeight={1.6} my={5}>
-                            I'm a Engineering Student Currently I Am Pusing  My B-Tech In IT .
+                            I am a Engineering Student Currently I Am Pusing  My B-Tech In IT .
                             I am passionate about coding and solving problems through code, 
                             and I am excited to work alongside other amazing programmers and learn so much more!
                             </Paragraph>
